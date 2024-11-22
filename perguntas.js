@@ -21,3 +21,13 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+   'Música',
+   'Qual cantora é a mais ouvida no spotify global?',
+   'Taylor Swift'
+)
+
+
+
+    
