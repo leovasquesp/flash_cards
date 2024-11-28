@@ -48,7 +48,7 @@ criaCartao(
 
 criaCartao(
     'Animais',
-    'Quantas formigas existem no planeta?,
+    'Quantas formigas existem no planeta?',
     'Cerca de 20 quadrilhões'
 )
 
